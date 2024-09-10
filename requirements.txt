@@ -1,8 +1,7 @@
 streamlit
-pandas
 pytesseract
+pandas
 opencv-python-headless
 Pillow
 xlsxwriter
 openpyxl
-tesseract
