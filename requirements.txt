@@ -1,6 +1,6 @@
 streamlit
-pytesseract
 pandas
+pytesseract
 opencv-python-headless
 Pillow
 xlsxwriter
